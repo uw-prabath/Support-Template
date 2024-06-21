@@ -1,6 +1,6 @@
-# FELICE-MD
+# Support Bot
 
-Base Bot WhatsApp (Case)
+Base Bot WhatsApp
 
 
 ## Run Locally
@@ -8,13 +8,13 @@ Base Bot WhatsApp (Case)
 Clone the project
 
 ```bash
-  git clone https://github.com/NCTea/Felice-MD
+  git clone https://github.com/uw-prabath/Support-Template
 ```
 
 Go to the project directory
 
 ```bash
-  cd Felice-MD
+  cd Support-Template
 ```
 
 Install dependencies
@@ -40,19 +40,4 @@ Start the server
 ## Features
 
 - Menu
-
-
-## Thanks to
-
-This project is used by the following companies:
-
-- My God
-- My Parent
-- XYZ Team
-- Me
-
-
-## Authors
-
-- [@NCTea](https://github.com/NCTea)
 
